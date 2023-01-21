@@ -1,5 +1,5 @@
 {
-    "name": "alive2tinker/fb-push-notifications",
+    "name": "alive2tinker/fb-firebase-notifications",
     "description": "Send firebase push notifications right from your nova dashboard",
     "keywords": [
         "laravel",
